@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Pre-sales Study Guides & Resumes (Safety Net)
+presales_guide.md
+api_integration_guide.md
+technical_architecture_guide.md
+inspecting_memory.md
+Mahima_Singh_Solutions_Engineer_Resume.md
+resume_points.md
+implementation_plan.md
+walkthrough.md
+task.md
+git_history_setup.sh
+*.png
+*.webp
+*.png.webp
