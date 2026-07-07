@@ -1,0 +1,1 @@
+// DemoCraft core app controller
