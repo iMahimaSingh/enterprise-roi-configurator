@@ -60,31 +60,13 @@ graph TD
 
 ---
 
-## 🚀 Running and Deploying Locally
+## 🚀 Execution and Production Deployment
 
-### Option A: Local Execution (Zero Setup)
-Simply double-click the `index.html` file to run it in any modern browser! It compiles without triggering local ES6 module CORS locks.
+### Local Execution (Zero Setup)
+Simply open the `index.html` file in any modern web browser. The application is completely serverless and runs natively on the client side with zero dependencies, avoiding complex build or module systems.
 
-### Option B: Local Server (Recommended for Module Security)
-To serve the files over a local loopback interface, execute any of the following command lines:
-
-```bash
-# Python 3
-python3 -m http.server 8000
-
-# Node.js (global tool)
-npx serve .
-
-# PHP
-php -S localhost:8000
-```
-Then navigate to `http://localhost:8000` or `http://localhost:5000` inside your browser.
-
----
-
-## 🌐 Free Production Hosting
-
-### Host on Vercel (1-Minute Deploy)
-1. Push this codebase directory to your GitHub account.
-2. Visit [Vercel](https://vercel.com) and click **Add New Project**.
-3. Import the GitHub repository and click **Deploy**. Vercel will identify it as a static site and deploy it instantly.
+### Production Hosting (Vercel Deployment)
+For customer-facing presentations, the configurator is optimized for deployment on Vercel:
+1. Connect your GitHub repository to [Vercel](https://vercel.com).
+2. Click **Add New Project** and import the `enterprise-roi-configurator` repository.
+3. Click **Deploy**. Vercel will automatically identify the project as a static website and host it globally with a custom domains link.
