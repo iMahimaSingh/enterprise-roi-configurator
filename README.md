@@ -2,15 +2,15 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://democraft-se.vercel.app)
 
-DemoCraft is a high-fidelity, interactive, and visually stunning web application designed specifically for a **Solutions Engineer (SE) / Presales & Go-To-Market (GTM)** portfolio. It demonstrates how a technical sales professional can bridge complex engineering concepts with high-value business outcomes.
+DemoCraft is a high-fidelity, interactive sales enablement platform and value configurator. It enables pre-sales engineers and go-to-market (GTM) teams to bridge complex technical integrations with clear, value-based business outcomes during customer evaluations.
 
 Built with pure, production-ready **Vanilla HTML5, CSS3, and JavaScript (ES6)**, the application requires **zero compilation steps or npm package installs**, loading instantly directly from the local file system.
 
 ---
 
-## 🌟 Why This Project Impresses in Solutions Engineering Interviews
+## 🎯 Core Value Pillars & Capabilities
 
-Solutions Engineering lies at the intersection of **technical depth** and **commercial storytelling**. DemoCraft models the exact challenges a pre-sales engineer solves daily:
+DemoCraft is engineered to streamline technical discovery and value-based scoping during complex B2B sales cycles:
 
 1. **Discovery & Custom Demos**: Dynamic vertical rebranding (FinTech, E-Commerce, Healthcare, SaaS) that updates theme assets, currencies, business pain points, and technical solutions on-the-fly.
 2. **Value-Based Selling**: A live ROI calculator projecting time reclaimed, cost savings, payback timelines, and 3-year cumulative returns, allowing business buyers to see immediate financial impact.
